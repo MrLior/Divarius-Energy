@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "plugin": "Solar Ger",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "published_at": "2026-08-25",
-  "file_name": "Solar_Ger_v0.7.2.rbz",
-  "rbz_url": "https://raw.githubusercontent.com/MrLior/Solar-Ger-Updates/main/releases/Solar_Ger_v0.7.2.rbz",
-  "sha256": "ddc3a737984c1b4278380796682dd22d93c486aaceb6d60868f8ce5238b6918b",
-  "release_notes": "Solar Ger v0.7.2"
+  "file_name": "Solar_Ger_v0.7.3.rbz",
+  "rbz_url": "https://raw.githubusercontent.com/MrLior/Solar-Ger-Updates/main/releases/Solar_Ger_v0.7.3.rbz",
+  "sha256": "64fe24e5be94757902c523deb290277dfbf1571621c14e0d0dc86436590c517a",
+  "release_notes": "Solar Ger v0.7.3"
 }
