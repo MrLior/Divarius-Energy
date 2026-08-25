@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "plugin": "Solar Ger",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "published_at": "2026-08-25",
-  "file_name": "Solar_Ger_v0.7.0.rbz",
-  "rbz_url": "https://filedn.com/loS8bvk9kVTjxfQfKFC5CVz/Work/Ger%20Technologies/Solar%20Ger/Solar%20Ger%20Updates/Solar_Ger_v0.7.0.rbz",
-  "sha256": "5a8a139d868673952ec1607af385afe7312233529630bd1402cd42334056a332",
-  "release_notes": "בחירת כיוון עוברת בין צלעות מעטפת הבניין: ריבוע = 4 צלעות, מתומן = 8. הכפתור אינו מוחק פאנלים או משנה בחירה. נוספה המלצת ממירים ומחרוזות אוטומטית לפי מספר הפאנלים, ההספק והמתחים."
+  "file_name": "Solar_Ger_v0.7.1.rbz",
+  "rbz_url": "https://raw.githubusercontent.com/MrLior/Solar-Ger-Updates/main/releases/Solar_Ger_v0.7.1.rbz",
+  "sha256": "0881fa7dc064cc53d77567e6f8f357b6dad211f7d29c87777a3aecb450cd350c",
+  "release_notes": "Solar Ger v0.7.1"
 }
