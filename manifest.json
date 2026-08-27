@@ -2,10 +2,10 @@
   "schema_version": 1,
   "plugin": "Solar Ger",
   "display_name": "Divarius Energy",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "published_at": "2026-08-27",
-  "file_name": "Divarius_Energy_v0.9.7.rbz",
-  "rbz_url": "https://raw.githubusercontent.com/MrLior/Divarius-Energy/main/releases/Divarius_Energy_v0.9.7.rbz",
-  "sha256": "519995a50afd502bee465eb43c609e4e4ab598131d3fc72e9881c4fd55d78fdf",
-  "release_notes": "Divarius Energy v0.9.7"
+  "file_name": "Divarius_Energy_v0.9.8.rbz",
+  "rbz_url": "https://raw.githubusercontent.com/MrLior/Divarius-Energy/main/releases/Divarius_Energy_v0.9.8.rbz",
+  "sha256": "ca85405158af88e1d446e611cda3fbbba4a8c6a843519d256de38f1368411e41",
+  "release_notes": "Divarius Energy v0.9.8"
 }
